@@ -1,0 +1,56 @@
+{
+    "month" : "Kedua",
+    "mbkm-type" : "Study Independent",
+    "mbkm-agency" : "Infinite Learning",
+    "extra-opening" : "saya sudah mendapatkan beberapa materi yang berguna untuk saya",
+    "mentoring-activity" : {
+        "dpp-mentoring" : true,
+        "mentor-mentoring" : false,
+        "mentoring-info" : {
+            "event" : "melakukan pertemuan secaran online lewat zoom",
+            "date" : "18 Maret"
+        }
+    },
+    "task" : {
+        "task-intro" : "",
+        "list-task" : [
+            {
+                "title" : "HTML Task 1",
+                "detail" : "membuat table dengan hanya menggunakan HTML. Ada 3 grade yang bisa dipilih: A, B, atau C berdasarkan kerumitan dari struktur tabel.",
+                "assignments-type" : "",
+                "team-info" : "secara personal",
+                "deadline" : "Sebelum 29 Maret 2024, jam 23.59 WIB"
+            },
+            {
+                "title" : "PITSTOP - 2",
+                "detail" : "menyelesaikan project micro sampai dengan desain HI-FI, Prototype dan PPT untuk presentasi.",
+                "assignments-type" : "dipresentasikan",
+                "deadline" : "Pada 21 Maret 2024",
+                "team-info" : "dengan Team Micro"
+            },
+            {
+                "title" : "Final Presentation Challenge",
+                "detail" : "menyelesaikan project micro, Prototype jadi 100% dan PPT untuk presentasi final.",
+                "assignments-type" : "dipresentasikan",
+                "deadline" : "Pada 3 April 2024",
+                "team-info" : "dengan Team Micro"
+            }
+        ]
+    },
+    "course": {
+        "task-intro" : "",
+        "list-course" : [
+            {
+                "title" : "Design",
+                "detail" : "Design Thinking: Prototype, Design Thinking: Testing dan Preparation to Usability Testing."
+            },
+            {
+                "title" : "HTML",
+                "detail" : "struktur html, shortcut untuk html dan Simantic HTML."   
+            }
+            
+        ]
+    },
+    "extra" : "Untuk bulan ini juga ada cuti bersama merayakan hari raya Idul Fitri, sehingga saya melakukan pembelajaran secara Asynchronous.",
+    "outro" : ""
+}
